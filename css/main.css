@@ -1,0 +1,48 @@
+html {
+    text-rendering: optimizeLegibility;
+    font-weight: 300;
+    font-family: Lato, sans-serif;
+}
+
+header {
+    background-image: url("../images/denis-degioanni-9wH624ALFQA-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+#title {
+    color: #ffffff;
+    text-align: center;
+    font-size: 100px;
+    font-family: Lato;
+    font-weight: 100;
+}
+
+header p {
+    color: #ffffff;
+    text-align: center;
+    font-family: Lato;
+}
+
+header img{
+    border-radius: 50%;
+    width: 120px;
+    height: auto;
+    position: center;
+    margin-left: 115px;
+}
+
+.icons {
+    color: #dcdcdc;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.navbar-custom a {
+    color: #ffffff;
+    font-family: Lato, sans-serif;
+    padding-top: 0px;
+}
